@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294944992066",
+    "project_id": "investy-capstone",
+    "storage_bucket": "investy-capstone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294944992066:android:a478e56e76f7b2e9cbb6db",
+        "android_client_info": {
+          "package_name": "Investy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7tb763UhUdsGoLXqY450CayYWX3dy_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294944992066:android:ee947ee1e461ee7fcbb6db",
+        "android_client_info": {
+          "package_name": "com.example.investy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7tb763UhUdsGoLXqY450CayYWX3dy_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
